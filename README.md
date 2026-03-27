@@ -44,6 +44,6 @@ API Testing: Postman / Curl
 
 Data Format: JSON
 
+![image alt](https://github.com/Yashgowda05/Friendcoin--Decentralized-Blockchain-Transaction-System/blob/main/Screenshot%202026-03-23%20183216.png?raw=true)
 
 
-![image alt]("https://github.com/Yashgowda05/Friendcoin--Decentralized-Blockchain-Transaction-System/blob/main/Screenshot%202026-03-23%20183216.png?raw=true")
