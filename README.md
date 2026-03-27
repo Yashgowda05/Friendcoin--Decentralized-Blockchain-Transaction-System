@@ -20,6 +20,7 @@ Friendcoin is a lightweight decentralized blockchain-based transaction system de
 
 
 
+
 🧠 How It Works
 
 Users create transactions (sender → receiver → amount)
