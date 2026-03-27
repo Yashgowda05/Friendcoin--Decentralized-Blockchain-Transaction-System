@@ -34,6 +34,7 @@ Block is added to the blockchain
 Network nodes validate and sync the updated chain
 ![image alt](https://github.com/Yashgowda05/Friendcoin--Decentralized-Blockchain-Transaction-System/blob/main/Screenshot%202026-03-23%20183203.png?raw=true)
 ![image alt](https://github.com/Yashgowda05/Friendcoin--Decentralized-Blockchain-Transaction-System/blob/main/Screenshot%202026-03-23%20183216.png?raw=true)
+![image alt](https://github.com/Yashgowda05/Friendcoin--Decentralized-Blockchain-Transaction-System/blob/main/Screenshot%202026-03-23%20183203.png?raw=true)
 🛠️ Tech Stack
 
 Backend: Node.js / Python (Flask) (choose based on your project)
