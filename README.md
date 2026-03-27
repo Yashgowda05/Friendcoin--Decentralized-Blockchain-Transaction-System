@@ -32,8 +32,8 @@ Miners solve a cryptographic puzzle (Proof-of-Work)
 Block is added to the blockchain
 
 Network nodes validate and sync the updated chain
-
-
+![image alt](https://github.com/Yashgowda05/Friendcoin--Decentralized-Blockchain-Transaction-System/blob/main/Screenshot%202026-03-11%20201613.png?raw=true)
+![image alt](https://github.com/Yashgowda05/Friendcoin--Decentralized-Blockchain-Transaction-System/blob/main/Screenshot%202026-03-23%20183216.png?raw=true)
 🛠️ Tech Stack
 
 Backend: Node.js / Python (Flask) (choose based on your project)
@@ -44,6 +44,6 @@ API Testing: Postman / Curl
 
 Data Format: JSON
 
-![image alt](https://github.com/Yashgowda05/Friendcoin--Decentralized-Blockchain-Transaction-System/blob/main/Screenshot%202026-03-23%20183216.png?raw=true)
+
 
 
